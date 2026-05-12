@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+node_modules/
+.next/
+out/
+dist/
+
+backend/.env
+frontend/.env.local
+frontend/.env
+backend/server.log
+sample_upload.xlsx
